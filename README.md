@@ -36,7 +36,7 @@ I am focusing not only on learning algorithms, but also on understanding how the
   - [x] R²
   - [x] Applied to California Housing
   - [x] Compared with Scikit-learn
-- [ ] Feature Scaling
+- [x] Feature Scaling
 - [ ] Ridge & Lasso
 - [ ] Logistic Regression
 - [ ] KNN

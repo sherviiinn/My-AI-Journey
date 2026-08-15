@@ -24,27 +24,25 @@ I am focusing not only on learning algorithms, but also on understanding how the
 
 ## 🧠 Learning Roadmap
 
-### 01 — Machine Learning
+### Machine Learning
 
 - [x] Linear Regression
-- [x] Gradient Descent
-- [x] Polynomial Regression
-- [x] Regression Metrics
-- [ ] Ridge Regression
-- [ ] Lasso Regression
+  - [x] Closed-Form Solution
+  - [x] Gradient Descent
+  - [x] Polynomial Regression
+  - [x] MSE
+  - [x] RMSE
+  - [x] MAE
+  - [x] R²
+  - [x] Applied to California Housing
+  - [x] Compared with Scikit-learn
+- [ ] Feature Scaling
+- [ ] Ridge & Lasso
 - [ ] Logistic Regression
-- [ ] K-Nearest Neighbors
+- [ ] KNN
 - [ ] Decision Trees
-- [ ] Random Forest
-- [ ] K-Means
-- [ ] DBSCAN
+- [ ] Clustering
 - [ ] PCA
-- [ ] Feature Engineering
-- [ ] Feature Selection
-- [ ] Cross Validation
-- [ ] Hyperparameter Tuning
-- [ ] Pipelines
-- [ ] Data Leakage
 
 ### 02 — Deep Learning
 
@@ -122,12 +120,8 @@ Practical projects built throughout the journey.
 My-AI-Journey/
 │
 ├── 01-Machine-Learning/
-│   ├── Linear-Regression/
-│   ├── Logistic-Regression/
-│   ├── KNN/
-│   ├── Decision-Trees/
-│   ├── Clustering/
-│   └── PCA/
+│   └── Linear-Regression/
+│       └── linear-regression-from-scratch.ipynb
 │
 ├── 02-Deep-Learning/
 │

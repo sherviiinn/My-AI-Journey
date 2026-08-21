@@ -164,18 +164,47 @@ Practical projects built throughout the journey.
 ```text
 My-AI-Journey/
 │
-├── 01-Machine-Learning/
-│   └── Linear-Regression/
-│       └── linear-regression-from-scratch.ipynb
+├── README.md
 │
-├── 02-Deep-Learning/
+├── Machine Learning/
+│   │
+│   ├── Preprocessing/
+│   │   └── Preprocessing.ipynb
+│   │
+│   ├── Supervised Learning/
+│   │   ├── Linear Regression/
+│   │   │   └── Linear-Regression-from-scratch.ipynb
+│   │   │
+│   │   ├── Ridge & Lasso/
+│   │   │   └── Ridge-Lasso.ipynb
+│   │   │
+│   │   ├── Logistic Regression/
+│   │   │   └── Logistic-Regression.ipynb
+│   │   │
+│   │   ├── KNN/
+│   │   │   └── KNN.ipynb
+│   │   │
+│   │   ├── Decision Trees/
+│   │   │   └── Decision-Trees.ipynb
+│   │   │
+│   │   └── Ensemble Methods/
+│   │       └── Ensemble-Methods.ipynb
+│   │
+│   └── Unsupervised Learning/
+│       ├── K-Means/
+│       │   └── K-Means.ipynb
+│       │
+│       ├── DBSCAN/
+│       │   └── DBSCAN.ipynb
+│       │
+│       └── PCA/
+│           └── PCA.ipynb
 │
-├── 03-Computer-Vision/
+├── Deep Learning/
+│   └── ...
 │
-├── 04-NLP/
+├── Projects/
+│   └── ...
 │
-├── 05-AI-Engineering/
-│
-├── 06-Projects/
-│
-└── README.md
+└── Research/
+    └── ...

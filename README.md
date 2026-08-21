@@ -26,6 +26,30 @@ I am focusing not only on learning algorithms, but also on understanding how the
 
 ### Machine Learning
 
+#### Preprocessing
+- [x] Feature Scaling
+  - [x] Standardization
+  - [x] Min-Max Scaling
+  - [x] fit / transform / fit_transform
+  - [x] Data Leakage
+- [ ] Handling Missing Values
+  - [ ] Drop Missing Values
+  - [ ] Mean / Median / Mode Imputation
+  - [ ] SimpleImputer
+- [ ] Encoding Categorical Features
+  - [ ] Label Encoding
+  - [x] One-Hot Encoding
+  - [ ] OneHotEncoder
+  - [ ] ColumnTransformer
+- [ ] Train / Validation / Test Split
+- [ ] Data Preprocessing Pipelines
+  - [ ] Pipeline
+  - [ ] ColumnTransformer + Pipeline
+- [ ] Feature Selection
+- [ ] Feature Engineering
+
+#### Supervised Learning
+
 - [x] Linear Regression
   - [x] Closed-Form Solution
   - [x] Gradient Descent
@@ -36,12 +60,33 @@ I am focusing not only on learning algorithms, but also on understanding how the
   - [x] R²
   - [x] Applied to California Housing
   - [x] Compared with Scikit-learn
-- [x] Feature Scaling
+
 - [ ] Ridge & Lasso
-- [ ] Logistic Regression
+
+- [x] Logistic Regression
+  - [x] Binary Classification
+  - [x] Sigmoid Function
+  - [x] Binary Cross-Entropy Loss
+  - [x] Gradient Descent
+  - [x] Implementation from Scratch
+  - [x] Classification Metrics
+  - [x] Multiclass Classification
+  - [x] One-Hot Encoding
+  - [x] Softmax Function
+  - [x] Cross-Entropy Loss
+  - [x] Softmax Regression from Scratch
+  - [x] Decision Boundaries
+  - [x] Training & Test Evaluation
+  - [x] Compared with Scikit-learn
+
 - [ ] KNN
 - [ ] Decision Trees
-- [ ] Clustering
+- [ ] Ensemble Methods
+
+#### Unsupervised Learning
+
+- [ ] K-Means
+- [ ] DBSCAN
 - [ ] PCA
 
 ### 02 — Deep Learning
